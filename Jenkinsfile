@@ -15,7 +15,7 @@ pipeline {
         stage('Step3') {
             steps {
 
-                sh 'ppppp -ef|grep jj'
+                sh 'ppppp -ef|grep jjh'
 
             }
         }
